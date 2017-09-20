@@ -32,3 +32,19 @@
 
 #define hap_getString(l, i) \
 	luaL_checkstring(l, i)
+
+
+
+/*
+ * TODO:
+ *
+ * hap_getInt
+ *
+ * hap_retInt
+ * hap_retString
+ *
+ * hap_getUserData
+ * hap_retUserData
+ *
+ * All the class stuff
+ */
